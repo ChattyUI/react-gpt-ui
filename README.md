@@ -1,1 +1,1 @@
-# react-chatty
+# React GPT UI
