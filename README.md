@@ -1,5 +1,7 @@
 # React GPT UI
 
+> Under Development
+
 ## Development
 `pnpm install`
 
