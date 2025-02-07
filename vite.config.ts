@@ -9,7 +9,7 @@ export default defineConfig({
       entry: "src/index.ts",
       name: "MyLibrary",
       formats: ["es", "cjs"],
-      fileName: (format) => `my-library.${format}.js`,
+      fileName: (format) => `react-gpt-ui.${format}.js`,
     },
     rollupOptions: {
       external: ["react", "react-dom"],
